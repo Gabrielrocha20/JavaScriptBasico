@@ -5,10 +5,3 @@
 
 // console.log('Soma =', soma)
 
-const numero = 10
-console.log(numero, typeof numero)
-
-const numeroEmFormatoDeString = String(numero)
-console.log(numeroEmFormatoDeString, typeof numeroEmFormatoDeString)
-
-console.log(parseFloat(1.40))
